@@ -21,10 +21,4 @@ function playSound()
     x.play();  
 }
 	
-	function play()
-	{
-	    playsound = "bdayaudio.mp3";
-	}
-
-
-
+}
